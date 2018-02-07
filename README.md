@@ -1,2 +1,2 @@
 # java-hello-world
-Integrating with jenkins
+Integrating Github with jenkins
